@@ -2,4 +2,4 @@
 just a quick test
 
 ## test
-lorem ipsum
+lorem ipsum. **this is bold text**
